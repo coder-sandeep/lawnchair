@@ -48,7 +48,7 @@ You can help translate Lawnchair 12.1 [on Crowdin](https://lawnchair.crowdin.com
 
 - Some English terminology may have no commonly used equivalents in other languages. In such cases, use short descriptive phrases–for example, the equivalent of _bottom row_ for _dock_.
 
-## Quick links
+## Quick linkss
 
 - [News](https://t.me/lawnchairci)
 - [Lawnchair on Twitter](https://twitter.com/lawnchairapp)
